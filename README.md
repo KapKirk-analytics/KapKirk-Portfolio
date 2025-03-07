@@ -6,4 +6,4 @@ This repository contains my professional projects and resume.
 - [Cyclistic Bike-Share Analysis](https://kapkirk-analytics.github.io/Cyclistic-Bike-Study/)  
 
 ### 📄 Resume  
-[Kap Kirk – Data Analyst Resume](https://github.com/KapKirk-analytics/KapKirk-Portfolio/blob/main/Kap%20Kirk%20Resume.pdf)  
+[Kap Kirk – Data Analyst Resume](https://github.com/KapKirk-analytics/KapKirk-Portfolio/blob/main/Kap%20Kirk%20Resume%20(1).pdf)  
